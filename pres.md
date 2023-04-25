@@ -22,9 +22,92 @@ style: |
 ![bg w:900](./imgs/photo.jpg)
 
 ---
-# Cache Http
+# Choisir la bonne technologie mobile pour votre projet
 
-...
+- Comparatif et évolution des 5 plus gros frameworks mobile de ces dernières années
+- Natif ou cross-plateform ?
+
+
+---
+# How to clone Shazam
+
+- Explique le fonctionnement de Shazam
+- Traitement du signal (transformée de Fourrier)
+  - notes, harmoniques, fréquences, signaux..
+- PoC en JavaScript
+- Démo live
+
+
+---
+# Le cache HTTP
+
+## A quoi ça sert ?
+- Réduire le temps de chargement côté client
+- Réduire la charge côté serveur
+
+### Meilleures performances = meilleur business
+
+---
+# Le cache HTTP
+
+## Concerne tous le monde
+- Front-end & backend
+- Dev et Ops
+
+## Casse tête
+
+- Énormement d'options
+- Pas mal de piège
+  - `Cache-Control=no-cache` : permet l'utilisation du cache..
+
+---
+![bg w:90%](./imgs/cache-http-schema.jpg)
+
+
+
+---
+# Développement durable pour les logiciels
+
+>  Le développement durable, c'est s'efforcer de répondre aux besoins du présent sans compromettre la capacité des générations futures de satisfaire les leurs.
+
+### Reprendre la réalisation d'un projet en suivant les 3P : "People, profit, planet"
+
+## Pas de formule magique
+- Moins consommer
+- Se concentrer sur ce dont on a besoin
+
+## La réalisation en 5 grandes étapes 
+
+---
+# Développement durable pour les logiciels
+
+## 1. Réfléchir à l'UX
+- Définir l'utilisateur cible, les fonctionnalité attendues..
+- Choisir, c'est optimiser (technos, principes ergonomiques mis en place..)
+
+## 2. Architecture technique
+  - N'utiliser que le nécessaire (stop les surcouches de frameworks inutiles)
+  - Préferer une architecture modulaire
+---
+# Développement durable pour les logiciels
+## 3. Choix de l'UI
+  - Transmettre le bon message
+  - Penser à l'accessibilité
+  - Avoir des détails sans trop en faire, rester sobre
+## 4. Phase de Développement
+  - Tester en continu
+  - Utiliser les bon éléments au bon endroit (ex: les bonnes balises pour l'HTML)
+  - Code lisible et réutilisable
+---
+# Développement durable pour les logiciels
+## 5. Passage en Production
+- Ne pas surcharger le server physique : n'installer que le minimum requis
+- Eteindre les serveurs inutiles ou avec des app obsolètes
+- Préferer les hébergeurs eco-responsable
+- Eviter d'utiliser des cookies (utilisés dans chaque requête..)
+
+
+
 
 ---
 # Systèmes distribués
